@@ -49,3 +49,7 @@ Rstudio presenter has a button to publish directly to Rpubs https://support.rstu
 
 You can also publish using both formats to github manually using gh-pages, though your github branch must have a .nojekyll fle and be on a branch names gh-pages. There's more on gh-pages here https://pages.github.com/  and there is a video lecture outlining how to do this.
 
+### Solution
+Find the github hosted file at http://alexcier.github.io/Developing-Data-Products/PresentationPitch.html#/ 
+The actual content of the files code is in PresentationPitch.Rpres, it's short and simple. I hope that running some graphs is enough for the final requirement. 
+Thanks for reading. ;)
